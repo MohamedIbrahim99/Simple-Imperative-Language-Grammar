@@ -1,0 +1,7 @@
+ab := 5;
+if (ab==5) then
+	d := 5;
+	ab :=10;
+	c := d
+else 
+	d := 2;

@@ -1,0 +1,11 @@
+b := (4 + 66);
+a := (b-5);
+while !(a == b) do
+	if !ff then
+		while !(a == b) do
+			a := b;
+			c := b
+	else 
+		if ((a == b) ^ (c == b)) then
+			d := (b-10)
+		else skip
